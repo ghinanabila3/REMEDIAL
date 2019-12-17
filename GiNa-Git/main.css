@@ -1,0 +1,92 @@
+.kepala {
+    background: rgb(105, 105, 105);
+  width: 1349px;
+  height: 166px;
+      border : rgb(105, 105, 105) solid 1px;
+}
+
+.Judul1 {
+    margin-top: 70px;
+    margin-bottom:10px;
+    margin-right:20px;
+    margin-left: 40px;
+    height: 150px;
+    width: 150px;
+    border-radius: 10px;
+    background:rgb(139, 139, 139);
+    float:left;
+    clear:both;
+}
+
+.Judul2 {
+    margin-top: -20px;
+    margin-bottom:10px;
+    margin-right:20px;
+    margin-left: 40px;
+    height:150px;
+    width: 150px;
+    border-radius: 10px;
+    background:rgb(139, 139, 139);
+    float:left;
+    clear:both;
+}
+
+.Judul3 {
+    margin-top: -20px;
+    margin-bottom:10px;
+    margin-right:20px;
+    margin-left: 40px;
+    height:150px;
+    width: 150px;
+    border-radius: 10px;
+    background:rgb(139, 139, 139);
+    float:left;
+    clear:both;
+}
+
+.Judul4 {
+    margin-top: -20px;
+    margin-bottom: 70px;
+    margin-right:20px;
+    margin-left: 40px;
+    height:150px;
+    width: 150px;
+    border-radius: 10px;
+    background:rgb(139, 139, 139);
+    float:left;
+    clear:both;
+}
+
+.text1 {
+    margin-bottom:70px;
+    margin-right:20px;
+    margin-left:220px;
+    margin-top:-160px;
+    height:150px;
+    width: 750px;
+    background:rgba(122, 31, 31, 0);
+    float:left;
+    clear:both;
+}
+
+.text2 {
+    margin-bottom:70px;
+    margin-right:20px;
+    margin-left:220px;
+    margin-top: -220px;
+    height:150px;
+    width: 750px;
+    background:rgba(122, 31, 31, 0);
+    float:left;
+    clear:both;
+}
+
+.Judul5 {
+    margin-bottom: 70px;
+    margin-left:980px;
+    margin-top:-820px;
+    height: 755px;
+    width:335px;
+    background:rgb(139, 139, 139);
+    float:left;
+}
